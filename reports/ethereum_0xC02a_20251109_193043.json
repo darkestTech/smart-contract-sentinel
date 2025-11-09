@@ -1,0 +1,17 @@
+[
+    {
+        "status": "\u2705 Safe",
+        "message": "No known risk patterns detected.",
+        "severity": "Low"
+    },
+    {
+        "status": "\ud83d\udcca Summary",
+        "message": "Verified: \u2705 | Issues Found: 0 | Overall Risk: 100/100 (\ud83d\udfe2 Low Risk)",
+        "severity": "Info"
+    },
+    {
+        "status": "\ud83d\udd17 On-chain",
+        "message": "{'error': 'Cannot connect to RPC node.'}",
+        "severity": "Info"
+    }
+]
